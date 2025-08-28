@@ -1,0 +1,62 @@
+{
+  "date": "2025-08-07",
+  "timestamp": "2025-08-07 23:00:33",
+  "indicators": {
+    "CSRA": {
+      "name": "Credit Spread",
+      "value": 0.82,
+      "change": "0.0000",
+      "change_rate": "0.00%",
+      "last_update": "2025-08-07 20:37:45"
+    },
+    "VIX0": {
+      "name": "VIX",
+      "value": 16.78,
+      "change": "0.0000",
+      "change_rate": "0.00%",
+      "last_update": "2025-08-07 00:02:23"
+    },
+    "Repo": {
+      "name": "Repo Rate",
+      "value": 4.34,
+      "change": "0.0000",
+      "change_rate": "0.00%",
+      "last_update": "2025-08-07 20:37:48"
+    },
+    "SAPS": {
+      "name": "Swap Spread",
+      "value": 0.3,
+      "change": "0.0000",
+      "change_rate": "0.00%",
+      "last_update": "2025-08-07 20:37:50"
+    },
+    "DURA": {
+      "name": "Duration Spread",
+      "value": 1.06,
+      "change": "0.0000",
+      "change_rate": "0.00%",
+      "last_update": "2025-08-07 20:37:50"
+    },
+    "YC02": {
+      "name": "2Y Treasury",
+      "value": 3.72,
+      "change": "0.0000",
+      "change_rate": "0.00%",
+      "last_update": "2025-08-07 20:37:49"
+    },
+    "YC10": {
+      "name": "10Y Treasury",
+      "value": 4.22,
+      "change": "0.0000",
+      "change_rate": "0.00%",
+      "last_update": "2025-08-07 20:37:49"
+    },
+    "YC30": {
+      "name": "30Y Treasury",
+      "value": 4.78,
+      "change": "0.0000",
+      "change_rate": "0.00%",
+      "last_update": "2025-08-07 20:37:50"
+    }
+  }
+}

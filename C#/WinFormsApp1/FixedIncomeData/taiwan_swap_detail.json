@@ -1,0 +1,31 @@
+{
+  "date": "2025-08-07",
+  "currency": "TWD",
+  "swap_spreads": {
+    "1Y": {
+      "swap_rate": 1.45,
+      "gov_yield": 1.2,
+      "spread": 0.25
+    },
+    "2Y": {
+      "swap_rate": 1.52,
+      "gov_yield": 1.25,
+      "spread": 0.27
+    },
+    "3Y": {
+      "swap_rate": 1.58,
+      "gov_yield": 1.3,
+      "spread": 0.28
+    },
+    "5Y": {
+      "swap_rate": 1.65,
+      "gov_yield": 1.35,
+      "spread": 0.3
+    },
+    "10Y": {
+      "swap_rate": 1.75,
+      "gov_yield": 1.45,
+      "spread": 0.3
+    }
+  }
+}
